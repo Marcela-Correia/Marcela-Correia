@@ -38,7 +38,7 @@
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="150" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=Marcela-Correia&show_icons=true&theme=onedark&include_all_commits=true&locale=pt-br" 
   />
