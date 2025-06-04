@@ -1,16 +1,53 @@
-## Hi there 👋
+## 👩‍💻![GhostedvpnHackerCatGIF](https://github.com/user-attachments/assets/32a6d8c6-2f9b-4072-b407-a44fe4d8f1b3)
+ Marcela Correia
 
-<!--
-**Marcela-Correia/Marcela-Correia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩‍🎓Cursando Ciência da Computação
+🌱Estudando C, JavaScript , Java
+😊Pronouns: ela/dela
 
-Here are some ideas to get you started:
+##  🖥️ Linguagens e Tecnologias
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="C" 
+    title="C"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
+/>
+<br/>
+<br/>
+### 📊 Estatísticas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Marcela-Correia&show_icons=true&theme=onedark&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="150" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcela-Correia&theme=onedark&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
